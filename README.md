@@ -1,5 +1,5 @@
-jsvg.js
-=======
+jSvg
+====
 
 A jQuery Plugin that gives jQuery support for interacting with SVG DOMs
 
